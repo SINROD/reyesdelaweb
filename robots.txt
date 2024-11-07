@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://reyesdelaweb.sanreyno.com/sitemap-index.xml
